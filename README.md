@@ -1,2 +1,2 @@
-# essentials
+# essentials 🤓
 Having fun with the essentials of es6 just because... 
